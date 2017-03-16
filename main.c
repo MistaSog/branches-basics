@@ -8,5 +8,6 @@ int main()
 	printf("And others\n");
 	printf("Enter the value:\n);
 	scanf("%d", &i);
+	printf("Value=%d\n", i);
 	return 0;
 }
